@@ -1,3 +1,9 @@
+//Name- Shiv sundar Das
+//College- Lovely Professional University
+//Year of passing – 2023
+//Phone – 8114764269
+//Email- shivsundardas04@gmail.com
+
 #include <iostream>
 #include <iomanip>
 #include <string>
